@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihsansunman&label=Profile%20views&color=0e75b6&style=flat" alt="ihsansunman" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihsansunman" alt="ihsansunman" /></a> </p>
+<p align="left"> <a href="https://github.com/ihsansunman"><img src="https://github-profile-trophy.vercel.app/?username=ihsansunman&theme=onestar" alt="ihsansunman" /></a> </p>
 
 - 📝 I regularly write articles on [https://asnus.com/ihsansunman/](https://asnus.com/ihsansunman/)
 
